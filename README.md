@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Salut legendes du triangle
+
+Les instructions suivantes indiquent comment editer notre site. Ici nous pourames creer n'importe ce qu'on veut et experimenter notre programmation ensemble.
 
 You can use the [editor on GitHub](https://github.com/drjohngaldino/trianglesite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
